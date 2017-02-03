@@ -23,8 +23,8 @@ function sumEach(tab) {
 }
 
 function mean(tab) {
-    var sum = sum(tab);
-    return sum/tab.length;
+    var sumr = sum(tab);
+    return sumr/tab.length;
 }
 
 function meanEach(tab) {
